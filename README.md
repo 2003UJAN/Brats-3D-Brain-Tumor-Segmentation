@@ -1,2 +1,2 @@
-# Brats-3D-Brain-Tumor-Segmen
+# Brats-3D-Brain-Tumor-Segment
 

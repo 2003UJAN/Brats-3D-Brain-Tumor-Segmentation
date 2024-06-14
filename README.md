@@ -1,2 +1,2 @@
-# Brats-3D-Brain-Tumo
+# Brats-3D-Brain-Tumor
 
